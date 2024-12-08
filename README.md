@@ -1,5 +1,5 @@
 # Global-Superstore-Data
-A data visualization project using Global Superstore Data taken from Kaggle
+A data visualization project using Global Superstore Data taken from Kaggle. The project was made on Microsoft Power BI.
 
 Credits:
 This dataset was taken from Kaggle
