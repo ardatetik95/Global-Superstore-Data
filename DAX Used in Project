@@ -1,0 +1,7 @@
+Avg Quantity = [Sum of Quantity] / [Order Count]
+Customer Count = DISTINCTCOUNT(Superstore[Customer_ID])
+Order Count = DISTINCTCOUNT(Superstore[Order_ID])
+Shipping Costs = sum(Superstore[Shipping_Cost])
+Sum of Profit = sum(Superstore[Profit])
+Sum of Quantity = Sum(Superstore[Quantity])
+Sum of Sales = SUM(Superstore[Sales])
